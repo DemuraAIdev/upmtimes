@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: UPTIMES
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage:Welcome this is UPTIME
+  introMessage: "Welcome this is UPTIME"
   navbar:
     - title: Status
       href: /
