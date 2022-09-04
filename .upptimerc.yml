@@ -5,7 +5,7 @@ repo: upmtimes # The name of this repository
 sites:
   - name: Core
     url: https://vahryiskandar.my.id/
-  - name: Analystic
+  - name: Analytics
     url: http://umami.vahryiskandar.my.id/
 
   
