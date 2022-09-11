@@ -40,18 +40,20 @@
     "url": "http://demura.vahryiskandar.my.id/",
     "icon": "https://favicons.githubusercontent.com/demura.vahryiskandar.my.id",
     "slug": "demura",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 302,
-    "timeWeek": 577,
-    "timeMonth": 577,
-    "timeYear": 577,
-    "dailyMinutesDown": {}
+    "time": 2295,
+    "timeDay": 4736,
+    "timeWeek": 2295,
+    "timeMonth": 2295,
+    "timeYear": 2295,
+    "dailyMinutesDown": {
+      "2022-09-11": 0
+    }
   },
   {
     "name": "Bin",
