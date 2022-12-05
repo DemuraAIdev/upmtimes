@@ -4,19 +4,19 @@
     "url": "https://vahryiskandar.my.id/",
     "icon": "https://icons.duckduckgo.com/ip3/vahryiskandar.my.id.ico",
     "slug": "vahryiskandar-my-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 3209,
-    "timeWeek": 943,
-    "timeMonth": 423,
-    "timeYear": 329,
+    "time": 328,
+    "timeDay": 2210,
+    "timeWeek": 862,
+    "timeMonth": 416,
+    "timeYear": 328,
     "dailyMinutesDown": {
-      "2022-12-05": 0
+      "2022-12-05": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "http://umami.vahryiskandar.my.id/",
     "icon": "https://icons.duckduckgo.com/ip3/umami.vahryiskandar.my.id.ico",
     "slug": "analytics",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 505,
-    "timeDay": 3346,
-    "timeWeek": 1151,
-    "timeMonth": 654,
-    "timeYear": 505,
+    "time": 502,
+    "timeDay": 2316,
+    "timeWeek": 1052,
+    "timeMonth": 642,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2022-12-05": 0
+      "2022-12-05": 5
     }
   },
   {
@@ -83,7 +83,7 @@
     "timeMonth": 234,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2022-12-05": 1182,
+      "2022-12-05": 1187,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
       "2022-12-02": 1440,
