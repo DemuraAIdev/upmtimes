@@ -22,19 +22,19 @@
     "url": "http://umami.vahryiskandar.my.id/",
     "icon": "https://icons.duckduckgo.com/ip3/umami.vahryiskandar.my.id.ico",
     "slug": "analytics",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 336,
-    "timeWeek": 352,
-    "timeMonth": 550,
-    "timeYear": 479,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 481,
+    "timeDay": 459,
+    "timeWeek": 391,
+    "timeMonth": 554,
+    "timeYear": 481,
     "dailyMinutesDown": {
-      "2022-12-24": 0
+      "2022-12-24": 25
     }
   },
   {
@@ -81,7 +81,7 @@
     "timeMonth": 374,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2022-12-24": 226,
+      "2022-12-24": 251,
       "2022-12-23": 1440,
       "2022-12-22": 1440,
       "2022-12-21": 1440,
